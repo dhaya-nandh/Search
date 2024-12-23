@@ -8,5 +8,8 @@ body{
 .search {
   width:30%;
   height:20px;
+  border:1 px solid black;
+  border-radius:5px;
+  
   
 }
